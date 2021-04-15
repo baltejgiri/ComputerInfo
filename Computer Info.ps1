@@ -1,0 +1,1 @@
+Get-ComputerInfo CsManufacturer, CsModel, CsName, CsProcessors, CSTotalPhysicalMemory, OsInstallDate, csdomain, logonserver
